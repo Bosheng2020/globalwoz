@@ -6,4 +6,3 @@ Dear GlobalWoZ readers, we are publishing all the data soon. Please give us some
 Here are the links to GlobalWoZ v1.0. We did the experiments on these data for our ACL paper. 
 We have uploaded the data to this link:
 https://entuedu-my.sharepoint.com/:f:/g/personal/bosheng001_e_ntu_edu_sg/EnifRwvNwU1GtVrsQlzMXsMBwIy6PKlrvL2EkPk5r3g59g?e=CDhIFS
-+++
